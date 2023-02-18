@@ -1,0 +1,6 @@
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san chinh2\QUAN LY TAI SAN\DTO_QuanLy\bin\Release\DTO_QuanLy.dll
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san chinh2\QUAN LY TAI SAN\DTO_QuanLy\bin\Release\DTO_QuanLy.pdb
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san chinh2\QUAN LY TAI SAN\DTO_QuanLy\obj\Release\DTO_QuanLy.csprojAssemblyReference.cache
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san chinh2\QUAN LY TAI SAN\DTO_QuanLy\obj\Release\DTO_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san chinh2\QUAN LY TAI SAN\DTO_QuanLy\obj\Release\DTO_QuanLy.dll
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san chinh2\QUAN LY TAI SAN\DTO_QuanLy\obj\Release\DTO_QuanLy.pdb

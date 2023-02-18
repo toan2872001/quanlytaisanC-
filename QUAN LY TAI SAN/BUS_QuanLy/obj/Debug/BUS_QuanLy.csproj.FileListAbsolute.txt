@@ -1,0 +1,140 @@
+c:\users\administrator\documents\visual studio 2015\Projects\QuanLyThanhVien\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+c:\users\administrator\documents\visual studio 2015\Projects\QuanLyThanhVien\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\QuanLyThanhVien\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+c:\users\administrator\documents\visual studio 2015\Projects\QuanLyThanhVien\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+c:\users\administrator\documents\visual studio 2015\Projects\QuanLyThanhVien\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\QuanLyThanhVien\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+c:\users\administrator\documents\visual studio 2015\Projects\QuanLyThanhVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.csprojResolveAssemblyReference.cache
+c:\users\administrator\documents\visual studio 2015\Projects\QuanLyThanhVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+c:\users\administrator\documents\visual studio 2015\Projects\QuanLyThanhVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb
+D:\QuanLyThanhVien\QuanLyThanhVien\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+D:\QuanLyThanhVien\QuanLyThanhVien\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+D:\QuanLyThanhVien\QuanLyThanhVien\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+D:\QuanLyThanhVien\QuanLyThanhVien\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\QuanLyThanhVien\QuanLyThanhVien\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+D:\QuanLyThanhVien\QuanLyThanhVien\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\QuanLyThanhVien\QuanLyThanhVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.csprojAssemblyReference.cache
+D:\QuanLyThanhVien\QuanLyThanhVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CoreCompileInputs.cache
+D:\QuanLyThanhVien\QuanLyThanhVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CopyComplete
+D:\QuanLyThanhVien\QuanLyThanhVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+D:\QuanLyThanhVien\QuanLyThanhVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\QuanLyThanhVien\QuanLyThanhVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.csprojResolveAssemblyReference.cache
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\QuanLyThanhVien\QuanLyThanhVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\QuanLyThanhVien\QuanLyThanhVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\QuanLyThanhVien\QuanLyThanhVien\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\QuanLyThanhVien\QuanLyThanhVien\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\QuanLyThanhVien\QuanLyThanhVien\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\QuanLyThanhVien\QuanLyThanhVien\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\QuanLyThanhVien\QuanLyThanhVien\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\QuanLyThanhVien\QuanLyThanhVien\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5\QuanLyThanhVien\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5\QuanLyThanhVien\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5\QuanLyThanhVien\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5\QuanLyThanhVien\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5\QuanLyThanhVien\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5\QuanLyThanhVien\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5\QuanLyThanhVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.csprojResolveAssemblyReference.cache
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5\QuanLyThanhVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5\QuanLyThanhVien\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb
+D:\BAO CAO PTTK HDT - NHOM 5\QuanLyKhachSan\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+D:\BAO CAO PTTK HDT - NHOM 5\QuanLyKhachSan\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+D:\BAO CAO PTTK HDT - NHOM 5\QuanLyKhachSan\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+D:\BAO CAO PTTK HDT - NHOM 5\QuanLyKhachSan\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\BAO CAO PTTK HDT - NHOM 5\QuanLyKhachSan\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+D:\BAO CAO PTTK HDT - NHOM 5\QuanLyKhachSan\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\BAO CAO PTTK HDT - NHOM 5\QuanLyKhachSan\BUS_QuanLy\obj\Debug\BUS_QuanLy.csprojAssemblyReference.cache
+D:\BAO CAO PTTK HDT - NHOM 5\QuanLyKhachSan\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CoreCompileInputs.cache
+D:\BAO CAO PTTK HDT - NHOM 5\QuanLyKhachSan\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CopyComplete
+D:\BAO CAO PTTK HDT - NHOM 5\QuanLyKhachSan\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+D:\BAO CAO PTTK HDT - NHOM 5\QuanLyKhachSan\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb
+D:\BAO CAO PTTK HDT - NHOM 5\Nhom 5\QuanLyKhachSan\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+D:\BAO CAO PTTK HDT - NHOM 5\Nhom 5\QuanLyKhachSan\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+D:\BAO CAO PTTK HDT - NHOM 5\Nhom 5\QuanLyKhachSan\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+D:\BAO CAO PTTK HDT - NHOM 5\Nhom 5\QuanLyKhachSan\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\BAO CAO PTTK HDT - NHOM 5\Nhom 5\QuanLyKhachSan\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+D:\BAO CAO PTTK HDT - NHOM 5\Nhom 5\QuanLyKhachSan\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\BAO CAO PTTK HDT - NHOM 5\Nhom 5\QuanLyKhachSan\BUS_QuanLy\obj\Debug\BUS_QuanLy.csprojAssemblyReference.cache
+D:\BAO CAO PTTK HDT - NHOM 5\Nhom 5\QuanLyKhachSan\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CoreCompileInputs.cache
+D:\BAO CAO PTTK HDT - NHOM 5\Nhom 5\QuanLyKhachSan\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CopyComplete
+D:\BAO CAO PTTK HDT - NHOM 5\Nhom 5\QuanLyKhachSan\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+D:\BAO CAO PTTK HDT - NHOM 5\Nhom 5\QuanLyKhachSan\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\BUS_QuanLy\obj\Debug\BUS_QuanLy.csprojResolveAssemblyReference.cache
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEM HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEM HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEM HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEM HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEM HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEM HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEM HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\BUS_QuanLy\obj\Debug\BUS_QuanLy.csprojResolveAssemblyReference.cache
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEM HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEM HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb
+D:\DO AN 2\NHOM 5 - VINH PHU - THANH VINH - KIEU NGA - THI GIANG - THUY HANG\BAI TAP NHOM\QuanLyKhachSan\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+D:\DO AN 2\NHOM 5 - VINH PHU - THANH VINH - KIEU NGA - THI GIANG - THUY HANG\BAI TAP NHOM\QuanLyKhachSan\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+D:\DO AN 2\NHOM 5 - VINH PHU - THANH VINH - KIEU NGA - THI GIANG - THUY HANG\BAI TAP NHOM\QuanLyKhachSan\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+D:\DO AN 2\NHOM 5 - VINH PHU - THANH VINH - KIEU NGA - THI GIANG - THUY HANG\BAI TAP NHOM\QuanLyKhachSan\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\DO AN 2\NHOM 5 - VINH PHU - THANH VINH - KIEU NGA - THI GIANG - THUY HANG\BAI TAP NHOM\QuanLyKhachSan\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+D:\DO AN 2\NHOM 5 - VINH PHU - THANH VINH - KIEU NGA - THI GIANG - THUY HANG\BAI TAP NHOM\QuanLyKhachSan\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+D:\DO AN 2\NHOM 5 - VINH PHU - THANH VINH - KIEU NGA - THI GIANG - THUY HANG\BAI TAP NHOM\QuanLyKhachSan\BUS_QuanLy\obj\Debug\BUS_QuanLy.csprojResolveAssemblyReference.cache
+D:\DO AN 2\NHOM 5 - VINH PHU - THANH VINH - KIEU NGA - THI GIANG - THUY HANG\BAI TAP NHOM\QuanLyKhachSan\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+D:\DO AN 2\NHOM 5 - VINH PHU - THANH VINH - KIEU NGA - THI GIANG - THUY HANG\BAI TAP NHOM\QuanLyKhachSan\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb
+D:\DO AN 2\DO AN 2 - VINH PHU\BUS_QuanLy\obj\Debug\BUS_QuanLy.csprojResolveAssemblyReference.cache
+D:\DO AN 2\DO AN 2 - VINH PHU\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+D:\DO AN 2\DO AN 2 - VINH PHU\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb
+D:\DO AN 2\DO AN 2 - VINH PHU\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+D:\DO AN 2\DO AN 2 - VINH PHU\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+D:\DO AN 2\DO AN 2 - VINH PHU\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+D:\DO AN 2\DO AN 2 - VINH PHU\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+D:\DO AN 2\DO AN 2 - VINH PHU\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+D:\DO AN 2\DO AN 2 - VINH PHU\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+C:\Users\MSI GL\Downloads\Quan ly tai san\QUAN LY TAI SAN\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+C:\Users\MSI GL\Downloads\Quan ly tai san\QUAN LY TAI SAN\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+C:\Users\MSI GL\Downloads\Quan ly tai san\QUAN LY TAI SAN\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+C:\Users\MSI GL\Downloads\Quan ly tai san\QUAN LY TAI SAN\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+C:\Users\MSI GL\Downloads\Quan ly tai san\QUAN LY TAI SAN\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+C:\Users\MSI GL\Downloads\Quan ly tai san\QUAN LY TAI SAN\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+C:\Users\MSI GL\Downloads\Quan ly tai san\QUAN LY TAI SAN\BUS_QuanLy\obj\Debug\BUS_QuanLy.csprojAssemblyReference.cache
+C:\Users\MSI GL\Downloads\Quan ly tai san\QUAN LY TAI SAN\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\MSI GL\Downloads\Quan ly tai san\QUAN LY TAI SAN\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CopyComplete
+C:\Users\MSI GL\Downloads\Quan ly tai san\QUAN LY TAI SAN\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+C:\Users\MSI GL\Downloads\Quan ly tai san\QUAN LY TAI SAN\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb
+C:\Users\letoa\Downloads\Quan ly tai san chinh2\QUAN LY TAI SAN\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+C:\Users\letoa\Downloads\Quan ly tai san chinh2\QUAN LY TAI SAN\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+C:\Users\letoa\Downloads\Quan ly tai san chinh2\QUAN LY TAI SAN\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+C:\Users\letoa\Downloads\Quan ly tai san chinh2\QUAN LY TAI SAN\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+C:\Users\letoa\Downloads\Quan ly tai san chinh2\QUAN LY TAI SAN\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+C:\Users\letoa\Downloads\Quan ly tai san chinh2\QUAN LY TAI SAN\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+C:\Users\letoa\Downloads\Quan ly tai san chinh2\QUAN LY TAI SAN\BUS_QuanLy\obj\Debug\BUS_QuanLy.csprojAssemblyReference.cache
+C:\Users\letoa\Downloads\Quan ly tai san chinh2\QUAN LY TAI SAN\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\letoa\Downloads\Quan ly tai san chinh2\QUAN LY TAI SAN\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CopyComplete
+C:\Users\letoa\Downloads\Quan ly tai san chinh2\QUAN LY TAI SAN\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+C:\Users\letoa\Downloads\Quan ly tai san chinh2\QUAN LY TAI SAN\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san chinh2\QUAN LY TAI SAN\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san chinh2\QUAN LY TAI SAN\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san chinh2\QUAN LY TAI SAN\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san chinh2\QUAN LY TAI SAN\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san chinh2\QUAN LY TAI SAN\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san chinh2\QUAN LY TAI SAN\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san chinh2\QUAN LY TAI SAN\BUS_QuanLy\obj\Debug\BUS_QuanLy.csprojAssemblyReference.cache
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san chinh2\QUAN LY TAI SAN\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san chinh2\QUAN LY TAI SAN\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CopyComplete
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san chinh2\QUAN LY TAI SAN\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san chinh2\QUAN LY TAI SAN\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san dhtd\QUAN LY TAI SAN\BUS_QuanLy\bin\Debug\BUS_QuanLy.dll
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san dhtd\QUAN LY TAI SAN\BUS_QuanLy\bin\Debug\BUS_QuanLy.pdb
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san dhtd\QUAN LY TAI SAN\BUS_QuanLy\bin\Debug\DAL_QuanLy.dll
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san dhtd\QUAN LY TAI SAN\BUS_QuanLy\bin\Debug\DTO_QuanLy.dll
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san dhtd\QUAN LY TAI SAN\BUS_QuanLy\bin\Debug\DAL_QuanLy.pdb
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san dhtd\QUAN LY TAI SAN\BUS_QuanLy\bin\Debug\DTO_QuanLy.pdb
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san dhtd\QUAN LY TAI SAN\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CoreCompileInputs.cache
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san dhtd\QUAN LY TAI SAN\BUS_QuanLy\obj\Debug\BUS_QuanLy.csproj.CopyComplete
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san dhtd\QUAN LY TAI SAN\BUS_QuanLy\obj\Debug\BUS_QuanLy.dll
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san dhtd\QUAN LY TAI SAN\BUS_QuanLy\obj\Debug\BUS_QuanLy.pdb
+C:\Users\letoa\OneDrive\Documents\Visual Studio 2017\Quan ly tai san dhtd\QUAN LY TAI SAN\BUS_QuanLy\obj\Debug\BUS_QuanLy.csprojAssemblyReference.cache

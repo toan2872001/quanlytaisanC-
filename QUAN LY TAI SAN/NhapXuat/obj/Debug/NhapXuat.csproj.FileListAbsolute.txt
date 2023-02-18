@@ -1,0 +1,9 @@
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\NhapXuat\bin\Debug\NhapXuat.exe.config
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\NhapXuat\bin\Debug\NhapXuat.exe
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\NhapXuat\bin\Debug\NhapXuat.pdb
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\NhapXuat\obj\Debug\NhapXuat.csprojResolveAssemblyReference.cache
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\NhapXuat\obj\Debug\NhapXuat.Form1.resources
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\NhapXuat\obj\Debug\NhapXuat.Properties.Resources.resources
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\NhapXuat\obj\Debug\NhapXuat.csproj.GenerateResource.Cache
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\NhapXuat\obj\Debug\NhapXuat.exe
+D:\HOC PHAN 12 - PHAT TRIEN PHAN MEME HUONG DOI TUONG\BAO CAO PTTK HDT - NHOM 5 xong\Nhom 5\QuanLyKhachSan\NhapXuat\obj\Debug\NhapXuat.pdb
